@@ -1,4 +1,4 @@
-//Add .def
+//Add .def Entry Point
 //LIBRARY "dllmain"
 //EXPORTS
 //wow
